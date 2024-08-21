@@ -29,6 +29,9 @@ Beyond the LLM’s intrinsic settings, the way prompts are crafted and pre-proce
 ### 7. Fine-Tuning and Customization
 
 For specialized tasks, fine-tuning the LLM on a domain-specific dataset can greatly enhance its relevance and accuracy. Fine-tuning involves
+
+## Settings for different kinds of LLM
+
 ### 1. Image Generation LLM
 
 #### Understanding Image Generation LLMs
