@@ -3,7 +3,9 @@
 ## What is Prompt Engineering?
 
 Prompt engineering is a relatively new discipline focused on the creation and refinement of prompts to effectively utilize and build with large language models (LLMs) across a broad spectrum of applications. Mastering prompt engineering 
-allows individuals to gain a deeper understanding of both the capabilities and the limitations of LLMs. Researchers leverage prompt engineering to enhance the safety, accuracy, and performance of LLMs in executing various tasks, ranging 
+allows individuals to gain a deeper understanding of both the capabilities and the limitations of LLMs. 
+
+Researchers leverage prompt engineering to enhance the safety, accuracy, and performance of LLMs in executing various tasks, ranging 
 from simple queries to complex reasoning challenges. Meanwhile, developers employ these techniques to design resilient and efficient prompts that seamlessly integrate with LLMs and other complementary tools.
 
 ## What is LLM? and what is the use of LLM?
